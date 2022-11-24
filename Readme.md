@@ -1,8 +1,7 @@
-Gắn vào sau thẻ mở body hoặc trước thẻ đóng body
+<!-- Gắn vào sau thẻ mở body hoặc trước thẻ đóng body -->
 <div id="toast"></div>
 
-Sử dụng
-
+<!-- Sử dụng -->
 <script>
     function showSuccessToast() {
         toast({
